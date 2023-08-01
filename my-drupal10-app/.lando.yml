@@ -1,0 +1,5 @@
+name: my-drupal10-app
+recipe: drupal10
+config:
+  webroot: web
+  xdebug: true

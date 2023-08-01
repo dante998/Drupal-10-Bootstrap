@@ -1,0 +1,4 @@
+name: Simple content
+type: module
+description: 'Create a simple content converted into a markup.'
+core_version_requirement: ^9 || ^10

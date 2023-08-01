@@ -1,0 +1,4 @@
+name: Custom User Form
+type: module
+description: "Form for user details and questions."
+core_version_requirement: ^9 || ^10

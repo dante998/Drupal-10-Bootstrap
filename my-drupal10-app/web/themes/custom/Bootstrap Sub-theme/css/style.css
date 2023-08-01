@@ -1,0 +1,56 @@
+/**
+ * If using a CSS pre-processor, tell it to overwrite this file. If not, place
+ * your custom CSS modifications here.
+ */
+
+/** Article-Custom Grid **/
+.col {
+  margin-bottom: 30px;
+}
+
+.field-name-field-image {
+  width: 100%;
+  height: auto;
+}
+
+
+/* Navigation Bar */
+
+.navbar-nav i{
+  margin-right: 1px;
+}
+
+/* Youtube video */
+
+.youtube-title {
+
+}
+
+.social-icons {
+  margin-left: 5px;
+  font-size: 35px;
+}
+
+
+
+.slideshow_class {
+position: relative;
+  transform: translateY(-59px);
+}
+
+
+#transparency {
+  position: absolute;
+  width: 500px;
+  height: 125px;
+}
+
+#mycontent {
+  position: absolute;
+  top: 365px;
+  left: 10px;
+  color: whitesmoke;
+
+}
+
+
